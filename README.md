@@ -56,5 +56,5 @@ Feel free to modify the project structure and Spark code as needed for your spec
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).......
 ```
